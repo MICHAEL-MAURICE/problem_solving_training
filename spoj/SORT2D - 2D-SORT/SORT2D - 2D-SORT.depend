@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596467044 source:d:\problem solving\ex\topics\stls\spoj\sort2d - 2d-sort\main.cpp
+	<bits/stdc++.h>
+	<algorithm>
+
