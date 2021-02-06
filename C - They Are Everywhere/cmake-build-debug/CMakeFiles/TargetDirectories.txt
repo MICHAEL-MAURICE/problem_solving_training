@@ -1,0 +1,3 @@
+D:/Level 3 Spring/C - They Are Everywhere/cmake-build-debug/CMakeFiles/C___They_Are_Everywhere.dir
+D:/Level 3 Spring/C - They Are Everywhere/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Level 3 Spring/C - They Are Everywhere/cmake-build-debug/CMakeFiles/rebuild_cache.dir
