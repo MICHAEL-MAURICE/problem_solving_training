@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Pascal_s_Triangle.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Pascal_s_Triangle.dir/objects.a @CMakeFiles\Pascal_s_Triangle.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Pascal_s_Triangle.dir/objects.a -Wl,--no-whole-archive  -o Pascal_s_Triangle.exe -Wl,--out-implib,libPascal_s_Triangle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pascal_s_Triangle.dir\linklibs.rsp

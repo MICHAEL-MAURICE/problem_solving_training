@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Valid_Anagram.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Valid_Anagram.dir/objects.a @CMakeFiles\Valid_Anagram.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Valid_Anagram.dir/objects.a -Wl,--no-whole-archive  -o Valid_Anagram.exe -Wl,--out-implib,libValid_Anagram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Valid_Anagram.dir\linklibs.rsp

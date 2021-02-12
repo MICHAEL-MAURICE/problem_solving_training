@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Palindrome_Number.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Palindrome_Number.dir/objects.a @CMakeFiles\Palindrome_Number.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Palindrome_Number.dir/objects.a -Wl,--no-whole-archive  -o Palindrome_Number.exe -Wl,--out-implib,libPalindrome_Number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Palindrome_Number.dir\linklibs.rsp

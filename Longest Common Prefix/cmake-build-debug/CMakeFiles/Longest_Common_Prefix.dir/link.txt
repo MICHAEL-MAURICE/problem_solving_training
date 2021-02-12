@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Longest_Common_Prefix.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Longest_Common_Prefix.dir/objects.a @CMakeFiles\Longest_Common_Prefix.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Longest_Common_Prefix.dir/objects.a -Wl,--no-whole-archive  -o Longest_Common_Prefix.exe -Wl,--out-implib,libLongest_Common_Prefix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Longest_Common_Prefix.dir\linklibs.rsp

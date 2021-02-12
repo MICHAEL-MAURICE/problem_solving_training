@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Third_Maximum_Number.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Third_Maximum_Number.dir/objects.a @CMakeFiles\Third_Maximum_Number.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Third_Maximum_Number.dir/objects.a -Wl,--no-whole-archive  -o Third_Maximum_Number.exe -Wl,--out-implib,libThird_Maximum_Number.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Third_Maximum_Number.dir\linklibs.rsp

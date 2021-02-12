@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Search_Insert_Position.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Search_Insert_Position.dir/objects.a @CMakeFiles\Search_Insert_Position.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Search_Insert_Position.dir/objects.a -Wl,--no-whole-archive  -o Search_Insert_Position.exe -Wl,--out-implib,libSearch_Insert_Position.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Search_Insert_Position.dir\linklibs.rsp
