@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(B__Harry_Potter_and_the_History_of_Magic)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(B__Harry_Potter_and_the_History_of_Magic main.cpp)

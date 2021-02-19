@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Misha_and_Changing_Handles.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Misha_and_Changing_Handles.dir/objects.a @CMakeFiles\Misha_and_Changing_Handles.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Misha_and_Changing_Handles.dir/objects.a -Wl,--no-whole-archive  -o Misha_and_Changing_Handles.exe -Wl,--out-implib,libMisha_and_Changing_Handles.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Misha_and_Changing_Handles.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\B__Regular_Bracket_Sequence.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\B__Regular_Bracket_Sequence.dir/objects.a @CMakeFiles\B__Regular_Bracket_Sequence.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\B__Regular_Bracket_Sequence.dir/objects.a -Wl,--no-whole-archive  -o B__Regular_Bracket_Sequence.exe -Wl,--out-implib,libB__Regular_Bracket_Sequence.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\B__Regular_Bracket_Sequence.dir\linklibs.rsp
